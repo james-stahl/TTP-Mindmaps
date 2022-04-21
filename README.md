@@ -2,4 +2,4 @@
 Some maps for common TTPs for various engagement types.
 
 ## External
-![External Mindmap](images/external_testing.png)
+![External Mindmap](images/external.png)
